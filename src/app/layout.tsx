@@ -4,7 +4,7 @@ import "./globals.css";
 import { UserProvider } from '@auth0/nextjs-auth0/client';
 
 export const metadata: Metadata = {
-  title: "naQdi",
+  title: "naQditest",
   description: "Enjoy fast and hassle-free transactions for all your needs",
 };
 
